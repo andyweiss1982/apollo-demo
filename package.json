@@ -1,0 +1,12 @@
+{
+  "name": "react_apollo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Andy Weiss <andyweiss1982@gmail.com>",
+  "license": "MIT",
+  "workspaces": [
+    "frontend",
+    "backend"
+  ],
+  "private": true
+}
